@@ -21,5 +21,9 @@ fixed:
 ```
 
 # Screenshot:
+```
 ![Horiseon](./assets/images/screenshot-horiseon.jpg)
-
+```
+# Link to deploy application
+```
+[https://pia-fierro.github.io/code-refactor/](https://pia-fierro.github.io/code-refactor/)
