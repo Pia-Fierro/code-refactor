@@ -99,7 +99,7 @@ p {
 
 /*style in headers of services content: element h2*/
 
-.h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
